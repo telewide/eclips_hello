@@ -11,5 +11,6 @@ using namespace std;
 
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	cout << "!!!GitHub Edit!!!" << endl; // prints !!!GitHub Edit!!!
 	return 0;
 }
