@@ -13,5 +13,6 @@ int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	cout << "Local git add line Print!!!" << endl; // prints Local git add line Print!!!
 	cout << "!!!GitHub Edit!!!" << endl; // prints !!!GitHub Edit!!!
+	cout << "!!!GitHub Pull!!!" << endl; // prints !!!GitHub Pull!!!
 	return 0;
 }
